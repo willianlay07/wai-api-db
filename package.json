@@ -1,0 +1,25 @@
+{
+  "name": "wai-api-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willianlay07/wai-api-db.git"
+  },
+  "author": "Wai Hein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willianlay07/wai-api-db/issues"
+  },
+  "homepage": "https://github.com/willianlay07/wai-api-db#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "underscore": "^1.8.3"
+  }
+}
